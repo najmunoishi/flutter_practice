@@ -5,11 +5,12 @@ import 'package:flutter/material.dart';
 //import 'gridview.dart';
 //import 'gridbuilder.dart';
 //import 'inkwell.dart';
-import 'getstruedetector.dart';
+//import 'getstruedetector.dart';
+import 'stack .dart';
 
 void main() {
   runApp(MaterialApp(
     title: 'first app',
-    home: Scaffold(body: Getstrue_Detector()),
+    home: Scaffold(body: Stack_widget()),
   ));
 }
